@@ -131,7 +131,6 @@
     "dkuProperties": []
   },
   "name": "VCTEST2",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -187,11 +186,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1655417364702
+    "lastModifiedOn": 1655417433534
   },
   "creationTag": {
     "versionNumber": 0,
@@ -201,7 +200,9 @@
     "lastModifiedOn": 1655417353315
   },
   "shortDesc": "The project *VCTEST2* was created by Administrator on Jun 16th 2022",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {
     "gdpr_forbid_dataset_sharing": false,
     "gdpr_forbid_dataset_export": false,
