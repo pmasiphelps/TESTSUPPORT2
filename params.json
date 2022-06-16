@@ -130,7 +130,7 @@
     },
     "dkuProperties": []
   },
-  "name": "VCTEST2",
+  "name": "VCTEST2 (branch1)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -186,11 +186,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1655417433534
+    "lastModifiedOn": 1655417436301
   },
   "creationTag": {
     "versionNumber": 0,
@@ -199,7 +199,7 @@
     },
     "lastModifiedOn": 1655417353315
   },
-  "shortDesc": "The project *VCTEST2* was created by Administrator on Jun 16th 2022",
+  "shortDesc": "The project *VCTEST2* was created by Administrator on Jun 16th 2022\nThe project *VCTEST2_BRANCH1* was copied from *VCTEST2* by Administrator on Jun 16th 2022",
   "tags": [
     "duplicated"
   ],
